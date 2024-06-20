@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AppCheck/bin
+/.vs
+/AppCheck/obj
+/AppCheck.Settings/bin/Debug/net8.0
+/AppCheck.Settings/obj
+/AppCheck.Settings/bin/Release/net8.0
+/AppCheck/log.txt
+/AppCheck/.config/dotnet-tools.json
+/logs
+/AppCheck/logs
+/AppCheck/Properties/PublishProfiles
+/AppCheck/AppCheck.csproj.user
