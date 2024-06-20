@@ -7,8 +7,6 @@ using Newtonsoft.Json.Linq;
 using System.IdentityModel.Tokens.Jwt;
 using System.Net;
 using System.Security.Claims;
-using static Google.Apis.Requests.BatchRequest;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace AppCheck.Middleware
 {
